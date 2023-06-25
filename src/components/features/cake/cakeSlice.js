@@ -3,7 +3,7 @@ import {createSlice} from '@reduxjs/toolkit'
 
 
 const intialState={
-    numOfCakes:10
+    numOfCakes:150
 }
 
 
